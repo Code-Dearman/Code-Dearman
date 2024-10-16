@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working 
+I'm a junior full-stack developer currently enrolled on a skills bootcamp with Code Institute. I'm working towards creating my first full-stack project and have completed a couple of smaller projects in the last few weeks. Check out my repositories for some walkthrough projects that I've recently completed along with some personal projects such as, ![mental health project](https://code-dearman.github.io/mental-health-project/) and a ![FizzBuzz Game](https://code-dearman.github.io/FizzBuzz-Game/).
 
 
 ## 🌐 Socials:
